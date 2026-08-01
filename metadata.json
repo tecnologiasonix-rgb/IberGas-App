@@ -1,0 +1,6 @@
+{
+  "name": "Urgencias BCN - Red de Técnicos",
+  "description": "Plataforma de gestión e intermediación para urgencias de gas, electricidad y fontanería en Barcelona con geolocalización, despacho de técnicos certificados y comisión del 30%.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
